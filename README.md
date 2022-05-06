@@ -1,2 +1,2 @@
-# DingWB.github.io
+# dingwb.github.io
 My github.io pages
