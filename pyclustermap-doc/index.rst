@@ -14,7 +14,6 @@ Welcome to pyclustermap's documentation!
 
 Indices and tables
 ==================
-
 * :ref:`Introduction`
 * :ref:`Setup and Installation`
 * :ref:`Quick Start`
@@ -24,18 +23,15 @@ Indices and tables
 
 .. _Introduction:
 ============
-
 This is an introduction
 
 .. _Setup and Installation:
 ======================
-
 pip install
 install from github
 
 .. _Quick Start:
 ===========
-
 ```python
 import os,sys
 import pyclustermap
@@ -43,5 +39,4 @@ import pyclustermap
 
 .. _Examples:
 ========
-
 Examples
