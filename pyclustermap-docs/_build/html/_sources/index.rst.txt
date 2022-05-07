@@ -14,10 +14,10 @@ Welcome to pyclustermap's documentation!
 
 Indices and tables
 ==================
-* :ref:`Introduction <Introduction>`
-* :ref:`Setup and Installation <Setup and Installation>`
-* :ref:`Quick Start <Quick Start>`
-* :ref:`Examples <Examples>`
+* :ref:`Introduction`
+* :ref:`Setup and Installation`
+* :ref:`Quick Start`
+* :ref:`Examples`
 
 
 
