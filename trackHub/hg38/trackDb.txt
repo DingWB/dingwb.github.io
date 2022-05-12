@@ -1,0 +1,73 @@
+track Heart
+shortLabel Heart
+longLabel Heart
+type bigWig
+visibility hide
+compositeTrack on
+
+    track sinehg381bedgraphbw
+    bigDataUrl sinehg381bedgraphbw.bigWig
+    shortLabel sinehg381bedgraphbw
+    longLabel sinehg381bedgraphbw
+    type bigWig
+    visibility full
+    color 46,52,64
+    maxHeightPixels 8:50:128
+    viewLimits -2:2
+    parent Heart on
+
+    track sinehg382bedgraphbw
+    bigDataUrl sinehg382bedgraphbw.bigWig
+    shortLabel sinehg382bedgraphbw
+    longLabel sinehg382bedgraphbw
+    type bigWig
+    visibility full
+    color 46,52,64
+    maxHeightPixels 8:50:128
+    viewLimits -2:2
+    parent Heart on
+
+    track sinehg380bedgraphbw
+    bigDataUrl sinehg380bedgraphbw.bigWig
+    shortLabel sinehg380bedgraphbw
+    longLabel sinehg380bedgraphbw
+    type bigWig
+    visibility full
+    color 46,52,64
+    maxHeightPixels 8:50:128
+    viewLimits -2:2
+    parent Heart on
+
+track Brain
+shortLabel Brain
+longLabel Brain
+type bigWig
+visibility hide
+compositeTrack on
+
+    track randomhg381bigBed
+    bigDataUrl randomhg381bigBed.bigBed
+    shortLabel randomhg381bigBed
+    longLabel randomhg381bigBed
+    type bigBed
+    visibility dense
+    color 109,191,167
+    parent Brain on
+
+    track randomhg380bigBed
+    bigDataUrl randomhg380bigBed.bigBed
+    shortLabel randomhg380bigBed
+    longLabel randomhg380bigBed
+    type bigBed
+    visibility dense
+    color 109,191,167
+    parent Brain on
+
+    track randomhg382bigBed
+    bigDataUrl randomhg382bigBed.bigBed
+    shortLabel randomhg382bigBed
+    longLabel randomhg382bigBed
+    type bigBed
+    visibility dense
+    color 109,191,167
+    parent Brain on
