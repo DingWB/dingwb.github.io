@@ -1,4 +1,4 @@
 # Wubin Ding's github.io web pages
 
-## [BioHeatmap](https://dingwb.github.io/BioHeatmap)
+## [PyComplexHeatmap](https://dingwb.github.io/PyComplexHeatmap)
 A python package to plot complex heatmap
