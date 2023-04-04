@@ -2,34 +2,31 @@
 title: Home
 ---
 
-# Decode our own genome
+# Computatinal Epigenetics
 
-With over 30 million variants in the human genome, which ones are important? Through the lens of human variation and diseases, we focus on advancing our ability to identify, assess, and predict variants with functional consequences using an interdisciplinary approach. 
-
-Our lab uses innovative genetics and genomics, single cell omics, computational, and imaging tools to understand the connection between genetic variants and human diseases, using the visual system as the model.
+I have been working on computational epigenetics for more than 7 years, mainly focus on DNA methylation, single cell sequencing data analysis, software & algorithm development, machine learning & deep learning, data visualization.
 
 {:.center}
 
 {%
   include gallery.html style="square"
+  image1="images/pycomplexheatmap.jpg"
+  link1="research/#PyComplexHeatmap"
+  caption1="PyComplexHeatmap"
 
-  image1="images/genetics1.jpeg"
-  link1="research/#genetics-of-disease"
-  caption1="Genetics&nbsp;of&nbsp;Disease"
+  image2="images/sesame1.png"
+  link2="research/#sesame"
+  caption2="SeSAMe&nbsp;&SNP&nbsp;DNAm"
 
-  image2="images/SCO1.jpeg"
-  link2="research/#single-cell-omics"
-  caption2="Single&nbsp;Cell&nbsp;Omics"
-
-  image3="images/therap2.jpeg"
-  link3="research/#therapeutics"
-  caption3="Therapeutics"
+  image3="images/dnmivd.png"
+  link3="research/#DNMIVD"
+  caption3="DNMIVD"
 
 %}
 {:.center}
 {% include section.html full=true background="images/back.webp" dark=true%}
 <br>
-### Our own genomes carry the story of evolution, written in DNA, the language of molecular genetics, and the narrative is unmistakable.
+### Implementing machine learning & Deep learning to decode epigenetics.
 <br>
 
 {% include slide.html %}
@@ -39,12 +36,12 @@ Our lab uses innovative genetics and genomics, single cell omics, computational,
 # Highlights
 
 {% capture text %}
-By using patient data, mice model, and retinal organoids, our research aims to identify, assess, and predict genetic variations which can lead to Mendelian and complex visual disorders.
+I developed several softwares and package, including PyComplexHeatmap, tbmate, SeSAMe.
 
 {%
   include link.html
-  link="publication"
-  text="See what we've published"
+  link="github"
+  text="See my github page"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -53,9 +50,9 @@ By using patient data, mice model, and retinal organoids, our research aims to i
 
 {%
   include feature.html
-  image="images/research.png"
+  image="images/github.png"
   link="research"
-  title="Our Research"
+  title="Github"
   text=text
 %}
 
@@ -65,8 +62,8 @@ We push to make software, tools, datasets, etc. that are freely available.
 
 {%
   include link.html
-  link="resources"
-  text="Browse our tools and datasets"
+  link="pubmed"
+  text="Browse my publications"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -75,30 +72,9 @@ We push to make software, tools, datasets, etc. that are freely available.
 
 {%
   include feature.html
-  image="images/genome2022.png"
-  link="resources"
-  title="Our Resources"
+  image="images/pubmed.png"
+  link="pubmed"
+  title="My Publications"
   flip=true
-  text=text
-%}
-
-{% capture text %}
-We are a team of enthusiastic researchers and we strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/team.jpg"
-  link="team"
-  title="Our Team"
   text=text
 %}
