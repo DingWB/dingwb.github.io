@@ -1,22 +1,22 @@
 ### basic settings
 # site properties and page defaults
-title: Chen Lab
-subtitle: Baylor College of Medicine
-description: Welcome to the laboratory of Dr. Rui Chen at Baylor College of Medicine!
+title: Wubin Ding
+subtitle: Wubin Ding's Personal Website
+description: Welcome to the my personal website
 logo: images/logo.png
-logo-text: Chen Lab
+logo-text: Wubin Ding
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
 
 # site social media and other links
 links:
-  email: ruichen@bcm.edu
-  google-scholar: F_4HNPAAAAAJ
-  github: rchenlab
-  twitter: rchenlab
-  instagram: rchenlab
-  youtube: ChenLabChannel
+  email: ding.wu.bin.gm@gmail.com
+  google-scholar: k3RoWRoAAAAJ
+  github: DingWB
+  twitter: DingWubin
+  instagram: None
+  youtube: None
 
 ### advanced settings
 

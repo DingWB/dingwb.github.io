@@ -1,6 +1,6 @@
 <h1 align="center">My Website</h1>
 <p align="center">
-<img height="200" src="images/62D7E28B-194C-4060-B338-848CA506327F.png" alt="Chen Lab Website">
+<img height="200" src="images/lab.png" alt="Ding Lab Website">
 </p>
 Welcome to My Personal Website!
 
@@ -17,3 +17,5 @@ Welcome to My Personal Website!
 - Individual **team member pages** with bios, assignable roles, and social media links
 - A **blog page**, with a sorted, grouped, tagged list of all your posts
 
+## PyComplexHeatmap
+[https://dingwb.github.io/PyComplexHeatmap](https://dingwb.github.io/PyComplexHeatmap)
