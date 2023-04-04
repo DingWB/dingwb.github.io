@@ -1,0 +1,90 @@
+- title: Single-cell transcriptomic atlas for adult human retina
+  subtitle:
+  group: single cell
+  image: images/SCO2.png
+  link: https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7
+  description: A fractionation protocol was developed to enrich nuclei from rare neuron cell types, including bipolar cells, amacrine cells, and retinal ganglion cells. In total, over 60 cell types are identified in our dataset, making the currently most comprehensive single-cell profiling of adult human retina.
+  repo:
+  tags:
+    - Retina
+    - Cell Atlas
+    - Human
+
+- title: Single-cell transcriptomic atlas for mouse retina
+  subtitle:
+  group: single cell
+  image: images/mouse_atlas.png
+  link: https://mouseatlas.research.bcm.edu
+  description: A unified single-cell atlas of the mouse retina using the most comprehensive approximately 250,000 single cells from our in-house experiments complementing public datasets. Cell labeling of 11 major types and over 120 subtypes form a unified single-cell reference for the mouse retina.
+  repo:
+  tags:
+    - Retina
+    - Cell Atlas
+    - Mouse
+    
+- title: GRIPT
+  subtitle: A novel case-control analysis method for Mendelian disease gene discovery
+  group: genetics
+  image: images/gript.jpg
+  link: https://github.com/fe4960/GRIPT_BCM
+  description: A novel method, the Gene Ranking, Identification and Prediction Tool (GRIPT), for performing case-control analysis of NGS data which is well-powered for disease gene discovery, especially for diseases with high locus heterogeneity.
+  repo:
+  tags:
+    - Software
+    - Gene Identification
+    - Gene Discovery
+    - NGS
+
+- title: Macaque Genome Database
+  subtitle: 
+  group: genetics
+  image: images/macaque.jpg
+  link: http://mhgcp-t58.grid.bcm.edu/macaque/index.html
+  description: The Macaque Genome Database is a coalition of investigators seeking to aggregate and harmonize exome sequencing data from a wide variety of large-scale sequencing projects of Macaque. You need to access under BCM network.
+  repo: 
+  tags:
+    - Database
+    - Macaque
+    - Genome
+    - Variantions
+    - Allele Frequency
+
+- title: Binomial Test
+  subtitle: A novel statistical method for interpreting the pathogenicity of rare variants
+  group: genetics
+  image: images/binomial.jpg
+  link: https://github.com/fe4960/Binomial_test
+  description: A novel statistical test by combining sequencing data from a patient cohort with a normal control population database. By comparing the expected and observed allele frequency in the patient cohort, variants that are likely benign can be identified.
+  repo:
+  tags:
+    - Software
+    - Variant Validation
+    - Allele Frequency
+    - NGS
+
+- title: Spatial atlas of mouse retina
+  subtitle: 
+  group: single cell
+  image: images/SCO5.png
+  link: https://cellatlas.research.bcm.edu/
+  description: Spatial atlas of mouse retina in MERFISH experiment. The web service visualizes the spatial organization of mouse retina through cellxgene. Imputed data enable gene expression exploration of the whole transcriptome.
+  repo: 
+  tags:
+    - MERFISH
+    - Dataset
+    - Mouse Retina
+    - Spatial
+    
+- title: bindSC
+  subtitle: Bi-order Integration of multi-omics Data from Single Cell sequencing technologies
+  group: single cell
+  image: images/bindSC.jpg
+  link: https://github.com/KChen-lab/bindSC
+  description: bindSC is an R package for single cell multi-omic integration analysis. It is developed to address the challenge of single-cell multi-omic data integration that consists of unpaired cells measured with unmatched features across modalities.
+  repo: 
+  tags:
+    - Software
+    - Bi-order
+    - Integration
+
+
