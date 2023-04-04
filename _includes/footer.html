@@ -20,11 +20,18 @@
 
 <footer {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
 
+  <!-- https://www.embed-map.com/ -->
   <!--
   <div>
     	<iframe width="1600" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Moursund%20St,%20Houston,%20TX%2077030+(Baylor%20College%20of%20Medicine)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
   </div>
   -->
+
+  <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:500px;height:500px;">
+    <div id="embed-map-display" style="height:100%; width:100%;max-width:100%;">
+      <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=10010+N+Torrey+Pines+Rd,+La+Jolla,+CA+92037美國&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe>
+    </div>
+  </div>
 
   <div class="footer_row">
     {%- for entry in site.links -%}
