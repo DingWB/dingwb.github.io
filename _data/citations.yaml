@@ -1,0 +1,262 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.3389/fcell.2020.00020
+  title: Co-occurrence and Mutual Exclusivity Analysis of DNA Methylation Reveals
+    Distinct Subtypes in Multiple Cancers
+  authors:
+  - Wubin Ding
+  - Guoshuang Feng
+  - Yige Hu
+  - Geng Chen
+  - Tieliu Shi
+  publisher: Frontiers in Cell and Developmental Biology
+  date: '2020-01-29'
+  link: https://doi.org/gmghb8
+  image: https://www.frontiersin.org/files/Articles/515160/fcell-08-00020-HTML/image_m/fcell-08-00020-g003.jpg
+  extra-links:
+  - type: journal
+    link: https://www.frontiersin.org/articles/10.3389/fcell.2020.00020/full
+    text: Data analysis
+  tags:
+  - Tumor epigenetics
+  - Data analysis
+  - DNA methylation
+  - Methylation array
+  topics:
+  - Data analysis
+- id: doi:10.1093/nar/gkz830
+  title: 'DNMIVD: DNA methylation interactive visualization database'
+  authors:
+  - Wubin Ding
+  - Jiwei Chen
+  - Guoshuang Feng
+  - Geng Chen
+  - Jun Wu
+  - Yongli Guo
+  - Xin Ni
+  - Tieliu Shi
+  publisher: Nucleic Acids Research
+  date: '2019-10-10'
+  link: https://doi.org/gghgg8
+  image: https://dingwb.github.io/images/dnmivd.png
+  extra-links:
+  - type: journal
+    link: https://sciwheel.com/fulltext/doi/10.1093/nar/gkz830
+    text: Database
+  - type: source
+    link: http://www.unimd.org/dnmivd/.
+    text: Website
+  tags:
+  - Human Genetics
+  - TLCD3B
+  - Retinal Dystrophy
+  topics:
+  - Human Genetics
+- id: doi:10.1016/j.stemcr.2018.01.001
+  title: "In\_Vitro Modeling of Human Germ Cell Development Using Pluripotent Stem\
+    \ Cells"
+  authors:
+  - Yuncheng Zhao
+  - Shicheng Ye
+  - Dongli Liang
+  - Pengxiang Wang
+  - Jing Fu
+  - Qing Ma
+  - Ruijiao Kong
+  - Linghong Shi
+  - Xueping Gong
+  - Wei Chen
+  - Wubin Ding
+  - Wenjing Yang
+  - Zijue Zhu
+  - Huixing Chen
+  - Xiaoxi Sun
+  - Jun Zhu
+  - Zheng Li
+  - Yuan Wang
+  publisher: Stem Cell Reports
+  date: '2018-02-01'
+  link: https://doi.org/gr3mrw
+  image: https://www.cell.com/cms/attachment/0e308b9f-9515-45c4-89d7-e08e26ffb1dc/gr3.jpg
+  extra-links:
+  - type: journal
+    link: https://sciwheel.com/fulltext/doi/10.1016/j.stemcr.2018.01.001
+    text: Data analysis
+  tags:
+  - RNA-Seq
+  - Data analysis
+  topics:
+  - Data analysis
+- id: 10.1016/j.lfs.2020.118786
+  title: 'Autonomous climbing: An effective exercise mode with beneficial outcomes
+    of aerobic exercise and resistance training'
+  authors:
+  - Fei Shen
+  - Yu Zhao
+  - Wubin Ding
+  - Kailin Liu
+  - Xiangyu Ren
+  - Qiang Zhang
+  - Jian Yu
+  - Yepeng Hu
+  - Hui Zuo
+  - Mingwei Guo
+  - Ling Jin
+  - Mingkai Gong
+  - Wenhao Wu
+  - Xuejiang Gu
+  - Lingyan Xu
+  - Fenglei Yang
+  - Jian Lu
+  publisher: Life Sciences
+  date: '2021-01-01'
+  link: https://doi.org/gr3mrx
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0024320520315393-gr3.jpg
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S0024320520315393
+    text: Data analysis
+  tags:
+  - Data analysis
+  - Data visualization
+  - RNA-Seq
+  topics:
+  - Data analysis
+- id: doi:10.1080/15592294.2019.1568178
+  title: Integrative analysis identifies potential DNA methylation biomarkers for
+    pan-cancer diagnosis and prognosis
+  authors:
+  - Wubin Ding
+  - Geng Chen
+  - Tieliu Shi
+  publisher: Epigenetics
+  date: '2019-01-02'
+  link: https://doi.org/ghff8x
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/kepi20/2019/kepi20.v014.i01/15592294.2019.1568178/20190218/images/large/kepi_a_1568178_f0002_c.jpeg
+  extra-links:
+  - type: journal
+    link: https://academic.oup.com/nar/article/49/D1/D1445/5997440
+    text: Pancancer biomarkers
+  tags:
+  - DNA methylation
+  - Methylation array
+  - Tumor epigenetics
+  - Machine learning
+  topics:
+  - Tumor epigenetics
+- id: 10.1093/nar/gkaa1042
+  title: 'AtMAD: <i>Arabidopsis thaliana</i> multi-omics association database'
+  authors:
+  - Yiheng Lan
+  - Ruikun Sun
+  - Jian Ouyang
+  - Wubing Ding
+  - Min-Jun Kim
+  - Jun Wu
+  - Yuhua Li
+  - Tieliu Shi
+  publisher: Nucleic Acids Research
+  date: '2020-11-21'
+  link: https://doi.org/ghp2rh
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/49/D1/10.1093_nar_gkaa1042/1/gkaa1042fig1.jpeg?Expires=1683681491&Signature=dUND34-3c5F2FW1R-GtstcGs~TFpCMOtGTX2e4L5bwCC8iKGhGy9n2-wk70d33fQSFu~wFr8X-rp9NoBWOqEtqM5CMb2aAXNJ9DU9x5QfxGjzK~fQdh4aekS7PAQyNWXcoDJNSGwjIH807JQPVsXhlbYpdFklKVB8Fe9LkBsfAtrUka0QpWqUGdv7nfKQFLQZFsCIx4pt3o8HmKaN3ETowJZiH7AQaIpAYPo~0T96wuiube6dfbroWkNj~d8NlKQvEpSw~b-ScfjKmqcbykyH7hcsegOCzR7-N251A5SKzAH~m9wzzo3kjKVMNlrskyL1qDK~6ShHpLcVSQLf1JIUQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+  - type: journal
+    link: https://academic.oup.com/nar/article/49/D1/D1445/5997440
+    text: Data analysis
+  tags:
+  - Database
+  - DNA methylation
+  - Data analysis
+  topics:
+  - Data analysis
+- id: 10.1016/j.xgen.2022.100144
+  title: DNA methylation dynamics and dysregulation delineated by high-throughput
+    profiling in the mouse
+  authors:
+  - Wanding Zhou
+  - Toshinori Hinoue
+  - Bret Barnes
+  - Owen Mitchell
+  - Waleed Iqbal
+  - Sol Moe Lee
+  - Kelly K. Foy
+  - Kwang-Ho Lee
+  - Ethan J. Moyer
+  - Alexandra VanderArk
+  - Julie M. Koeman
+  - Wubin Ding
+  - Manpreet Kalkat
+  - Nathan J. Spix
+  - Bryn Eagleson
+  - John Andrew Pospisilik
+  - "Piroska E. Szab\xF3"
+  - Marisa S. Bartolomei
+  - Nicole A. Vander Schaaf
+  - Liang Kang
+  - Ashley K. Wiseman
+  - Peter A. Jones
+  - Connie M. Krawczyk
+  - Marie Adams
+  - Rishi Porecha
+  - Brian H. Chen
+  - Hui Shen
+  - Peter W. Laird
+  publisher: Cell Genomics
+  date: '2022-07-01'
+  link: https://doi.org/gqhcbr
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666979X22000775-fx1.jpg
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S2666979X22000775
+    text: Data analysis
+  tags:
+  - Data analysis
+  - DNA methylation
+  - Methylation array
+  topics:
+  - Data analysis
+- id: doi:10.1093/bib/bbac617
+  title: Comparative epigenome analysis using Infinium DNA methylation BeadChips
+  authors:
+  - Wubin Ding
+  - Diljeet Kaur
+  - Steve Horvath
+  - Wanding Zhou
+  publisher: Briefings in Bioinformatics
+  date: '2023-01-01'
+  link: https://doi.org/gr3mrz
+  image: https://dingwb.github.io/images/sesame1.png
+  extra-links:
+  - type: journal
+    link: https://www.researchgate.net/publication/366976018_Comparative_epigenome_analysis_using_Infinium_DNA_methylation_BeadChips#fullTextFileContent
+    text: Software development
+  tags:
+  - DNA methylation
+  - Methylation array
+  - Software
+  topics:
+  - Software development
+- id: doi:10.1002/imt2.89
+  title: iMeta progress and acknowledgment of reviewers in 2022
+  authors:
+  - "Yong\u2010Xin Liu"
+  - "Chun\u2010Lin Shi"
+  - Tengfei Ma
+  - Wubin Ding
+  - Danyi Li
+  - Tong Chen
+  - Jingyuan Fu
+  - "Shuang\u2010Jiang Liu"
+  publisher: iMeta
+  date: '2023-02-01'
+  link: https://doi.org/gr3mr2
+  image: https://onlinelibrary.wiley.com/cms/asset/41728a1f-5566-4336-b6ec-64170426f8e0/imt289-fig-0002-m.jpg
+  extra-links:
+  - type: journal
+    link: https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.89
+    text: Data visualization
+  tags:
+  - Data visualization
+  topics:
+  - Data visualization
