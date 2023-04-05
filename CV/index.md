@@ -1,5 +1,8 @@
 ---
 title: CV
+nav:
+  order: 2
+  tooltip: Wubin Ding's CV
 ---
 
 {% include section.html full=true background="images/back.webp" dark=true%}
