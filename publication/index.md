@@ -26,7 +26,7 @@ nav:
   icon=""
   text="More on PubMed"
   tooltip=""
-  link="https://pubmed.ncbi.nlm.nih.gov/?term=rui+chen+and+Baylor&sort=date&size=100"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=Wubin+Ding&sort=date"
 %}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 {%
@@ -35,6 +35,6 @@ nav:
   icon=""
   text="More on Google Scholar"
   tooltip=""
-  link="F_4HNPAAAAAJ"
+  link="k3RoWRoAAAAJ"
 %}
 {:.center}
