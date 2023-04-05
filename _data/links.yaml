@@ -57,7 +57,7 @@ google-scholar:
   link: https://scholar.google.com/citations?hl=en&user=$LINK
 
 pubmed:
-  icon: pubmed.png
+  icon: fab fa-leanpub
   text: Pubmed
   tooltip: Pubmed
   link: https://www.ncbi.nlm.nih.gov/myncbi/$LINK/bibliography/public/
