@@ -11,7 +11,7 @@ nav:
 {% include section.html background="images/organoid1.jpg" dark=true%}
 
 {% include search-box.html %}
-###### Search by keywords, authors and/or anything of interest. Examples: Single Cell Omics, Rui Chen, 2021 and etc.
+###### Search by keywords, authors and/or anything of interest. Examples: DNA methylation, 2021 and etc.
  {:.center}
 
 {% include search-info.html %}
