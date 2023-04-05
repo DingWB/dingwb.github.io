@@ -10,7 +10,7 @@
   - DNA methylation
   - Methylation array
   topics:
-  - Data analysis
+  - Tumor epigenetics
 
 - id: doi:10.1093/nar/gkz830
   image: https://dingwb.github.io/images/dnmivd.png
@@ -19,14 +19,15 @@
       link: https://sciwheel.com/fulltext/doi/10.1093/nar/gkz830
       text: Database
     - type: source
-      link: http://www.unimd.org/dnmivd/.
+      link: http://www.unimd.org/dnmivd/
       text: Website
   tags:
-  - Human Genetics
-  - TLCD3B
-  - Retinal Dystrophy
+  - Database
+  - DNA methylation
+  - Methylation array
+  - Tumor epigenetics
   topics:
-  - Human Genetics
+  - Tumor epigenetics
   
 - id: doi:10.1016/j.stemcr.2018.01.001
   image: https://www.cell.com/cms/attachment/0e308b9f-9515-45c4-89d7-e08e26ffb1dc/gr3.jpg

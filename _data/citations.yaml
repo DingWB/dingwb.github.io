@@ -24,7 +24,7 @@
   - DNA methylation
   - Methylation array
   topics:
-  - Data analysis
+  - Tumor epigenetics
 - id: doi:10.1093/nar/gkz830
   title: 'DNMIVD: DNA methylation interactive visualization database'
   authors:
@@ -45,14 +45,15 @@
     link: https://sciwheel.com/fulltext/doi/10.1093/nar/gkz830
     text: Database
   - type: source
-    link: http://www.unimd.org/dnmivd/.
+    link: http://www.unimd.org/dnmivd/
     text: Website
   tags:
-  - Human Genetics
-  - TLCD3B
-  - Retinal Dystrophy
+  - Database
+  - DNA methylation
+  - Methylation array
+  - Tumor epigenetics
   topics:
-  - Human Genetics
+  - Tumor epigenetics
 - id: doi:10.1016/j.stemcr.2018.01.001
   title: "In\_Vitro Modeling of Human Germ Cell Development Using Pluripotent Stem\
     \ Cells"
