@@ -5,15 +5,14 @@ nav:
   tooltip: Wubin Ding's CV
 ---
 
-{% include section.html dark=true%}
+{% include section.html dark=false%}
 # <i class="fas fa-book-open fa-lg"></i>CV
 
 {:.center}
 
 {%
-  include gallery.html style="square"
+  include gallery.html style="border-radius"
   image1="images/cv.jpg"
   link1="cv"
   caption1=""
-
 %}

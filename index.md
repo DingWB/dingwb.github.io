@@ -11,15 +11,15 @@ I have been working on computational epigenetics for more than 7 years, mainly f
 {%
   include gallery.html style="square"
   image1="images/pycomplexheatmap.jpg"
-  link1="research/#PyComplexHeatmap"
+  link1="https://github.com/DingWB/PyComplexHeatmap"
   caption1="PyComplexHeatmap"
 
   image2="images/sesame1.png"
-  link2="research/#sesame"
+  link2="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=k3RoWRoAAAAJ&citation_for_view=k3RoWRoAAAAJ:_FxGoFyzp5QC"
   caption2="SeSAMe&nbsp;&SNP&nbsp;DNAm"
 
   image3="images/dnmivd.png"
-  link3="research/#DNMIVD"
+  link3="https://doi.org/gghgg8"
   caption3="DNMIVD"
 
 %}
@@ -40,7 +40,8 @@ I developed several softwares and package, including PyComplexHeatmap, tbmate, S
 
 {%
   include link.html
-  link="github"
+  link="https://github.com/DingWB"
+  type="external"
   text="See my github page"
   icon="fas fa-arrow-right"
   flip=true
@@ -51,7 +52,7 @@ I developed several softwares and package, including PyComplexHeatmap, tbmate, S
 {%
   include feature.html
   image="images/github.png"
-  link="research"
+  link="https://github.com/DingWB"
   title="Github"
   text=text
 %}
@@ -74,7 +75,7 @@ We push to make software, tools, datasets, etc. that are freely available.
 {%
   include feature.html
   image="images/pubmed.png"
-  link="pubmed"
+  link="https://www.ncbi.nlm.nih.gov/myncbi/1JygAtk9xOQQ7/bibliography/public/"
   title="My Publications"
   flip=true
   text=text
