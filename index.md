@@ -62,7 +62,8 @@ We push to make software, tools, datasets, etc. that are freely available.
 
 {%
   include link.html
-  link="pubmed"
+  link="https://www.ncbi.nlm.nih.gov/myncbi/1JygAtk9xOQQ7/bibliography/public/"
+  type="external"
   text="Browse my publications"
   icon="fas fa-arrow-right"
   flip=true
