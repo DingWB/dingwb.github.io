@@ -1,8 +1,8 @@
 ---
 name: Wubin Ding
 image: images/member/wubin.png
-description: Principal Investigator
-role: pi
+description: Postdoctoral Researcher
+role: postdoc
 aliases:
   - Wubin Ding
   - Ding Wubin
@@ -15,7 +15,6 @@ links:
 ---
 
 ## Positions
-<b>Postdoctoral Fellow</b>   Children's Hospital of Philadelphia<br>
 <b>Postdoctoral Researcher</b>   Salk Institute for Bilogical Studies<br>
 
 ## Education
