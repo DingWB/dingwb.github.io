@@ -117,3 +117,16 @@
   - Data visualization
   topics:
   - Data visualization
+
+- id: doi:10.1002/imt2.115
+  image: https://onlinelibrary.wiley.com/cms/asset/da055c5b-a00f-4b9a-8e98-0dd0a6155326/imt2115-gra-0001-m.jpg
+  extra-links:
+    - type: journal
+      link: https://onlinelibrary.wiley.com/doi/10.1002/imt2.115
+      text: Data visualization
+  tags:
+  - Data visualization
+  - Data analysis
+  topics:
+  - Data visualization
+  - Software development
