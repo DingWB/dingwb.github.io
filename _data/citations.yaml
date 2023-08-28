@@ -1,5 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
-# See https://github.com/greenelab/lab-website-template/wiki/Citations; docu: https://greene-lab.gitbook.io/lab-website-template-docs/introduction/overview
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
 
 - id: doi:10.3389/fcell.2020.00020
   title: Co-occurrence and Mutual Exclusivity Analysis of DNA Methylation Reveals
@@ -261,3 +261,23 @@
   - Data visualization
   topics:
   - Data visualization
+- id: doi:10.1002/imt2.115
+  title: 'PyComplexHeatmap: A Python package to visualize multimodal genomics data'
+  authors:
+  - Wubin Ding
+  - David Goldberg
+  - Wanding Zhou
+  publisher: iMeta
+  date: '2023-05-25'
+  link: https://doi.org/gsndbg
+  image: https://onlinelibrary.wiley.com/cms/asset/da055c5b-a00f-4b9a-8e98-0dd0a6155326/imt2115-gra-0001-m.jpg
+  extra-links:
+  - type: journal
+    link: https://onlinelibrary.wiley.com/doi/10.1002/imt2.115
+    text: Data visualization
+  tags:
+  - Data visualization
+  - Data analysis
+  topics:
+  - Data visualization
+  - Software development
