@@ -11,7 +11,7 @@ Our software, tools, etc. are open-source, and free for anyone around the world 
 
 {% include search-info.html %}
 
-{% include section.html dark=true full=false %}
+{% include section.html dark=false full=false %}
 
 ## Software
 
