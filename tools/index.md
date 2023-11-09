@@ -13,10 +13,10 @@ Our software, tools, etc. are open-source, and free for anyone around the world 
 
 {% include section.html %}
 
-## Genetics
+## Software
 
 {% include list.html component="card" data="tools" filters="group: software" %}
 
-## Single Cell
+## Database
 
 {% include list.html component="card" data="tools" filters="group: database" %}
