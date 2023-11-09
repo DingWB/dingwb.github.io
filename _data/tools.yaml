@@ -1,90 +1,66 @@
-- title: Single-cell transcriptomic atlas for adult human retina
-  subtitle:
-  group: single cell
-  image: images/SCO2.png
-  link: https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7
-  description: A fractionation protocol was developed to enrich nuclei from rare neuron cell types, including bipolar cells, amacrine cells, and retinal ganglion cells. In total, over 60 cell types are identified in our dataset, making the currently most comprehensive single-cell profiling of adult human retina.
+- title: PyComplexHeatmap
+  subtitle: PyComplexHeatmap, A Python package to visualize multimodal genomics data
+  group: software
+  image: https://onlinelibrary.wiley.com/cms/asset/da055c5b-a00f-4b9a-8e98-0dd0a6155326/imt2115-gra-0001-m.jpg
+  link: https://github.com/DingWB/PyComplexHeatmap
+  description: PyComplexHeatmap was designed to visualize matrix data and associated metadata through sophisticated, richly annotated heatmap layouts. We have integrated the R grammar-of-graphics semantics with the Python-native matplotlib/Pandas-based data science ecosystem, allowing users to utilize built-in matplotlib colormaps and project Pandas DataFrame directly as horizontal or vertical color bars. PyComplexHeatmap supports high-level data abstraction and can display up to five data dimensions within a single heatmap visualization.
   repo:
   tags:
-    - Retina
-    - Cell Atlas
-    - Human
+    - Data Visualization
+    - Data Analysis
+    - Python
+    - Heatmap
+    - complex heatmap
 
-- title: Single-cell transcriptomic atlas for mouse retina
-  subtitle:
-  group: single cell
-  image: images/mouse_atlas.png
-  link: https://mouseatlas.research.bcm.edu
-  description: A unified single-cell atlas of the mouse retina using the most comprehensive approximately 250,000 single cells from our in-house experiments complementing public datasets. Cell labeling of 11 major types and over 120 subtypes form a unified single-cell reference for the mouse retina.
-  repo:
-  tags:
-    - Retina
-    - Cell Atlas
-    - Mouse
-    
-- title: GRIPT
-  subtitle: A novel case-control analysis method for Mendelian disease gene discovery
-  group: genetics
-  image: images/gript.jpg
-  link: https://github.com/fe4960/GRIPT_BCM
-  description: A novel method, the Gene Ranking, Identification and Prediction Tool (GRIPT), for performing case-control analysis of NGS data which is well-powered for disease gene discovery, especially for diseases with high locus heterogeneity.
-  repo:
-  tags:
-    - Software
-    - Gene Identification
-    - Gene Discovery
-    - NGS
+- title: ChunkZIP
+  subtitle: ChunkZIP, Efficient Compression and Analysis for Single-Cell DNA Methylation Data
+  group: software
+  image: https://github.com/DingWB/czip/raw/main/docs/images/design.png
+  link: https://dingwb.github.io/czip
+  description: An innovative compression algorithm that significantly reduces storage requirements while streamlining downstream analysis of single-cell biological data, especially for DNA methylation data
 
-- title: Macaque Genome Database
-  subtitle: 
-  group: genetics
-  image: images/macaque.jpg
-  link: http://mhgcp-t58.grid.bcm.edu/macaque/index.html
-  description: The Macaque Genome Database is a coalition of investigators seeking to aggregate and harmonize exome sequencing data from a wide variety of large-scale sequencing projects of Macaque. You need to access under BCM network.
   repo: 
+  tags:
+    - Python
+    - Compression
+    - Single cell
+    - Storage
+    - Data Analysis
+
+- title: DNMIVD
+  subtitle: DNA Methylation Interactive Visualization Database
+  group: database
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/D1/10.1093_nar_gkz830/1/m_gkz830fig2.jpeg?Expires=1702063922&Signature=xfmKZ-ddVkKWBU6HJuu3~pJXzp4BwQATKOVvs~X6qmUgpXAGHCq6rTpy64lqMs7OhmO87bV6nUcxXlR7yc1kxgFPOLL9vPZ0SVj-5-Dcbt31SyepsBWaCBN~9Q5xIlGd0G8Q23DdG1elAMpbr5-5ECI7d8K2C7zqADJ01ou8UyshMsjfz-g4xJ0OQ1SyFRm6-eFa~LhCM57cqnDLSHlSDjK8tHn1g2KgtGgVWBTiA51v6jEuiWMrqLiiL~pHKI4Gef2kpVHghSB51N6peNWUn7Uqm3NZ3xYj6gZjY7kme6MQwMDcG43IvYhu7aRjXfv96sC8urg1Au7H4HArIeiyow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  link: http://119.3.41.228/dnmivd/index/
+  description: DNMIVD is a comprehensive annotation and interactive visualization database for DNA methylation profile of diverse human cancer constructed with high throughput microarray data from TCGA and GEO databases, and it also integrates some data from Pancan-meQTL and HACER databases. Overall, DNMIVD mainly contains lots of important resources.
+  repo:
   tags:
     - Database
-    - Macaque
-    - Genome
-    - Variantions
-    - Allele Frequency
+    - Data Visualization
+    - DNA methylation
+    - Cancer Epigenetics
 
-- title: Binomial Test
-  subtitle: A novel statistical method for interpreting the pathogenicity of rare variants
-  group: genetics
-  image: images/binomial.jpg
-  link: https://github.com/fe4960/Binomial_test
-  description: A novel statistical test by combining sequencing data from a patient cohort with a normal control population database. By comparing the expected and observed allele frequency in the patient cohort, variants that are likely benign can be identified.
+- title: pyballc
+  subtitle:
+  group: software
+  image: https://user-images.githubusercontent.com/2994580/280405741-a205dd2e-85c0-4454-a614-c69b376d8ebc.png
+  link: https://github.com/DingWB/pyballc
+  description: BAllCools is a comprehensive tool designed to handle binary AllC files (BAllC). The tool aims to solve the challenges posed by the large number of single-cell data. The conventional AllC files store methylation data as text, which becomes significantly bulky when dealing with single-cell data. BAllCools provides an efficient way to store and retrieve data by converting these text files into binary files, thereby saving substantial storage space. The BAllC format save >55% storage compared to AllC the format, and BAllCools accelorates BAllC operation like data merging (ballcools merge) ~30x.
   repo:
   tags:
-    - Software
-    - Variant Validation
-    - Allele Frequency
-    - NGS
+    - BAllCools
+    - pyballc
+    - Compression
 
-- title: Spatial atlas of mouse retina
-  subtitle: 
-  group: single cell
-  image: images/SCO5.png
-  link: https://cellatlas.research.bcm.edu/
-  description: Spatial atlas of mouse retina in MERFISH experiment. The web service visualizes the spatial organization of mouse retina through cellxgene. Imputed data enable gene expression exploration of the whole transcriptome.
-  repo: 
-  tags:
-    - MERFISH
-    - Dataset
-    - Mouse Retina
-    - Spatial
     
-- title: bindSC
-  subtitle: Bi-order Integration of multi-omics Data from Single Cell sequencing technologies
-  group: single cell
-  image: images/bindSC.jpg
-  link: https://github.com/KChen-lab/bindSC
-  description: bindSC is an R package for single cell multi-omic integration analysis. It is developed to address the challenge of single-cell multi-omic data integration that consists of unpaired cells measured with unmatched features across modalities.
-  repo: 
+- title: SeSAMe
+  subtitle:
+  group: software
+  image: https://www.researchgate.net/profile/Wubin-Ding-2/publication/366976018/figure/fig1/AS:11431281121527681@1677011859260/Utility-of-Infinium-BeadChips-on-vertebrate-genomes-A-SeSAMe-workf-low-of-species-and_Q320.jpg
+  link: https://www.bioconductor.org/packages/release/bioc/vignettes/sesame/inst/doc/sesame.html
+  description: Tools For analyzing Illumina Infinium DNA methylation arrays. SeSAMe provides utilities to support analyses of multiple generations of Infinium DNA methylation BeadChips, including preprocessing, quality control, visualization and inference. SeSAMe features accurate detection calling, intelligent inference of ethnicity, sex and advanced quality control routines.
+  repo:
   tags:
-    - Software
-    - Bi-order
-    - Integration
-
-
+    - DNA methylation
+    - Methylation array
+    - R
