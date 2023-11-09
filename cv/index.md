@@ -7,6 +7,7 @@ nav:
 
 {% include section.html dark=false%}
 # <i class="fas fa-book-open fa-lg"></i>CV
+<p>Blocked (visible only when in job market)</p>
 
 {:.center}
 
