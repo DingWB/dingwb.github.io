@@ -10,7 +10,7 @@ nav:
 
 {:.center}
 
-<p>Blocked (visible only when in job market)</p>
+<p>No visible now</p>
 
 <!-- {%
   include gallery.html style="border-radius"
