@@ -10,7 +10,7 @@ nav:
 
 {:.center}
 
-<p>No visible now</p>
+<p>Site under maintenance</p>
 
 <!-- {%
   include gallery.html style="border-radius"
