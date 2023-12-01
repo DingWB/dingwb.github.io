@@ -17,12 +17,13 @@
   extra-links:
   - type: journal
     link: https://www.frontiersin.org/articles/10.3389/fcell.2020.00020/full
-    text: Data analysis
+    text: COME
   tags:
   - Tumor epigenetics
   - Data analysis
   - DNA methylation
   - Methylation array
+  - First Author
   topics:
   - Tumor epigenetics
 - id: doi:10.1093/nar/gkz830
@@ -46,12 +47,13 @@
     text: Database
   - type: source
     link: http://www.unimd.org/dnmivd/
-    text: Website
+    text: DNMIVD
   tags:
   - Database
   - DNA methylation
   - Methylation array
   - Tumor epigenetics
+  - First Author
   topics:
   - Tumor epigenetics
 - id: doi:10.1016/j.stemcr.2018.01.001
@@ -83,7 +85,7 @@
   extra-links:
   - type: journal
     link: https://sciwheel.com/fulltext/doi/10.1016/j.stemcr.2018.01.001
-    text: Data analysis
+    text: StemCell
   tags:
   - RNA-Seq
   - Data analysis
@@ -117,11 +119,12 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/pii/S0024320520315393
-    text: Data analysis
+    text: Exercise
   tags:
   - Data analysis
   - Data visualization
   - RNA-Seq
+  - Co-First Author
   topics:
   - Data analysis
 - id: doi:10.1080/15592294.2019.1568178
@@ -144,6 +147,7 @@
   - Methylation array
   - Tumor epigenetics
   - Machine learning
+  - First Author
   topics:
   - Tumor epigenetics
 - id: 10.1093/nar/gkaa1042
@@ -164,7 +168,7 @@
   extra-links:
   - type: journal
     link: https://academic.oup.com/nar/article/49/D1/D1445/5997440
-    text: Data analysis
+    text: AtMAD
   tags:
   - Database
   - DNA methylation
@@ -210,7 +214,7 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/pii/S2666979X22000775
-    text: Data analysis
+    text: MM285
   tags:
   - Data analysis
   - DNA methylation
@@ -231,11 +235,12 @@
   extra-links:
   - type: journal
     link: https://www.researchgate.net/publication/366976018_Comparative_epigenome_analysis_using_Infinium_DNA_methylation_BeadChips#fullTextFileContent
-    text: Software development
+    text: SeSAMe
   tags:
   - DNA methylation
   - Methylation array
   - Software
+  - First Author
   topics:
   - Software development
 - id: doi:10.1002/imt2.89
@@ -256,7 +261,7 @@
   extra-links:
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.89
-    text: Data visualization
+    text: Editor
   tags:
   - Data visualization
   topics:
@@ -274,10 +279,11 @@
   extra-links:
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/10.1002/imt2.115
-    text: Data visualization
+    text: PyComplexHeatmap
   tags:
   - Data visualization
   - Data analysis
   - Software
+  - First Author
   topics:
   - Software development
